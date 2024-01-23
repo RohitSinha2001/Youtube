@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/youtube-clone.git
-   Open the project in your preferred code editor.
+   
 
 2. Open the project in your preferred code editor.
 3. Open the 'index.html' file in a web browser.
